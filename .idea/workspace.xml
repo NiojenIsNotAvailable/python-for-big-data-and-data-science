@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="824bce11-bf40-4e02-a40e-74942a56849f" name="Changes" comment="Added &quot;Практична 3&quot;">
-      <change afterPath="$PROJECT_DIR$/python_practice_4.ipynb" afterDir="false" />
+    <list default="true" id="824bce11-bf40-4e02-a40e-74942a56849f" name="Changes" comment="Updates">
+      <change afterPath="$PROJECT_DIR$/python_practice_5_2025.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_practice_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python_practice_3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,8 @@
       <workItem from="1739720147657" duration="817000" />
       <workItem from="1740415984542" duration="105000" />
       <workItem from="1741075790192" duration="646000" />
-      <workItem from="1741617772185" duration="1337000" />
+      <workItem from="1741617772185" duration="1985000" />
+      <workItem from="1742208885703" duration="7090000" />
     </task>
     <task id="LOCAL-00001" summary="Wrote a first program">
       <option name="closed" value="true" />
@@ -113,7 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741075955324</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added &quot;Практична 4&quot;">
+      <option name="closed" value="true" />
+      <created>1741619145216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741619145216</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updates">
+      <option name="closed" value="true" />
+      <created>1741619764877</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741619764877</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +150,9 @@
     <MESSAGE value="Wrote a first program" />
     <MESSAGE value="Added &quot;Практична 2&quot;" />
     <MESSAGE value="Added &quot;Практична 3&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;Практична 3&quot;" />
+    <MESSAGE value="Added &quot;Практична 4&quot;" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_for_big_data_and_data_science$python_practice_1.coverage" NAME="python_practice_1 Coverage Results" MODIFIED="1739720592584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
