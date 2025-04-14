@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="824bce11-bf40-4e02-a40e-74942a56849f" name="Changes" comment="Added &quot;Практична 6&quot;">
-      <change afterPath="$PROJECT_DIR$/python_practice_8 (1).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/missile_attacks_daily.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_practice_9_2025.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +93,7 @@
       <workItem from="1742838572236" duration="4608000" />
       <workItem from="1743429925154" duration="8000" />
       <workItem from="1744020359819" duration="5685000" />
+      <workItem from="1744640305549" duration="5690000" />
     </task>
     <task id="LOCAL-00001" summary="Wrote a first program">
       <option name="closed" value="true" />
